@@ -1,0 +1,13 @@
+[package]
+name = "page_cache"
+version = "0.1.0"
+edition = "2024"
+authors = ["Anekoique <ctolu01@gmail.com>"]
+
+[dependencies]
+axerrno = "0.1"
+axhal = { git = "https://github.com/oscomp/arceos.git" }
+
+lru = "0.16"
+memory_addr = "0.4"
+spin = "0.9"
