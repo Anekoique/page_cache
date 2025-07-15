@@ -8,6 +8,7 @@ authors = ["Anekoique <ctolu01@gmail.com>"]
 axerrno = "0.1"
 axhal = { git = "https://github.com/oscomp/arceos.git" }
 
+log = "0.4"
 lru = "0.16"
 memory_addr = "0.4"
 spin = "0.9"
